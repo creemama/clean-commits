@@ -12,6 +12,9 @@ Communication - Help Communicate Why You're Doing Something
 Merge small things faster
 
 
+Write clear, short commit messages
+==================================
+
 
 Every commit should be compilable and unit testable. This might not apply to interpreted languages.
 ====================================================
